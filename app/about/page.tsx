@@ -47,7 +47,7 @@ const teamMembers = [
     description: "Jalil oversees the recruitment, development, and well-being of the Hostershub team. He ensures that the company attracts top talent and fosters a healthy work environment rooted in respect, growth, and collaboration.",
   },
   {
-    name: "Abdul-Razak Kamil",
+    name: "Abdul-Razak Mohammed Kamil Nyaba",
     role: "Lead Developer",
     image: "/placeholder.svg?height=300&width=300",
     description: "Kamil leads the technical development of the Hostershub platform. From backend systems to infrastructure design, he ensures everything runs securely, reliably, and at scale — powering seamless hosting and e-commerce experiences..",
