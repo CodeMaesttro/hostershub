@@ -17,7 +17,7 @@ export default function DashboardPage() {
         <div className="space-y-8">
           {/* Welcome Section */}
           <div>
-            <h1 className="text-3xl font-bold">Welcome back, Kamil!</h1>
+            <h1 className="text-3xl font-bold">Welcome back,Mohammed Kamil!</h1>
             <p className="text-muted-foreground">Manage your hosting services and orders</p>
           </div>
 
