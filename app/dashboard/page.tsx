@@ -138,7 +138,7 @@ export default function DashboardPage() {
                         <div className="text-sm font-medium">Storage Used</div>
                         <div className="text-2xl font-bold">8.2 GB</div>
                         <Progress value={82} className="mt-2" />
-                        <div className="text-xs text-muted-foreground mt-1">82% of 10 GB</div>
+                        <div className="text-xs text-muted-foreground mt-1">82% of 11 GB</div>
                       </div>
                       <div>
                         <div className="text-sm font-medium">Bandwidth Used</div>
